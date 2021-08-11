@@ -4,4 +4,7 @@
   <img align="left" alt="DuongPhan's Discord" width="21px" src="https://img.icons8.com/color/48/000000/discord-new-logo.png" />
 </a>
 
-My personal responsitory
+<br />
+<br />
+
+Hi, I'm Duong Phan, a third-year student in Ho Chi Minh University Of Science, VietNam.
